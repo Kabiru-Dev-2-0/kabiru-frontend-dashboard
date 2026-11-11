@@ -1,0 +1,7 @@
+<svg width="140" height="42" viewBox="0 0 140 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="19" cy="21" r="16" fill="#E8F1FA" stroke="#3674B5" stroke-width="2"/>
+  <circle cx="19" cy="21" r="9" fill="#2EB8C9" opacity=".6"/>
+  <text x="19" y="25" text-anchor="middle" font-family="Sora, Arial, sans-serif" font-weight="700" font-size="10" fill="#1F3F8A">AI</text>
+  <text x="42" y="22" font-family="Sora, Arial, sans-serif" font-weight="800" font-size="19" fill="#1F3F8A">AI<tspan fill="#6A7282">ZONE</tspan></text>
+  <text x="42" y="34" font-family="Sora, Arial, sans-serif" font-size="7" fill="#6A7282">Kabiru Studio &amp; CMS</text>
+</svg>

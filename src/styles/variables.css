@@ -1,0 +1,82 @@
+/*
+ * Kabiru Web Dashboard — Color & Typography Design Tokens
+ * Identik dengan kabiru-web-frontend + variabel semantik untuk shadcn/ui
+ */
+
+:root {
+  /* Primary */
+  --color-primary-active: #5295cd;
+  --color-primary-default: #277bc0;
+  --color-primary-hover: #2370af;
+
+  /* Accent */
+  --color-accent-active: #ffc133;
+  --color-accent-default: #ffb200;
+  --color-accent-hover: #e8a200;
+
+  /* Success */
+  --color-success-active: #33c997;
+  --color-success-default: #00bc7d;
+  --color-success-hover: #00ab72;
+
+  /* Error */
+  --color-error-active: #fc565e;
+  --color-error-default: #fb2c36;
+  --color-error-hover: #e42831;
+
+  /* Warning */
+  --color-warning-active: #ff8733;
+  --color-warning-default: #ff6900;
+  --color-warning-hover: #e86000;
+
+  /* Disabled */
+  --color-disabled-active: #888e9b;
+  --color-disabled-default: #6a7282;
+  --color-disabled-hover: #606876;
+
+  /* Background */
+  --color-bg-light: #f0f1f3;
+  --color-bg-dark: #2d3037;
+  --color-bg-disabled: #9ba1ab;
+
+  /* Text */
+  --color-text-heading: #3a3f48;
+  --color-text-paragraph: #606876;
+  --color-text-paragraph-75: #888e9b;
+
+  /* Border */
+  --color-border-surface: #babec6;
+  --color-border-main: #9ba1ab;
+  --color-border-active: #888e9b;
+
+  /* Font Size System */
+  --font-size-display-1: 36px;
+  --font-size-display-2: 32px;
+  --font-size-display-3: 28px;
+  --font-size-display-4: 24px;
+  --font-size-heading: 20px;
+  --font-size-paragraph: 16px;
+  --font-size-small: 12px;
+
+  /* Shadcn/UI Semantic Tokens (Mapped to Kabiru Design System) */
+  --radius: 0.5rem;
+  --background: #ffffff;
+  --foreground: #3a3f48;
+  --card: #ffffff;
+  --card-foreground: #3a3f48;
+  --popover: #ffffff;
+  --popover-foreground: #3a3f48;
+  --primary: #277bc0;
+  --primary-foreground: #ffffff;
+  --secondary: #f0f1f3;
+  --secondary-foreground: #3a3f48;
+  --muted: #f0f1f3;
+  --muted-foreground: #606876;
+  --accent: #ffb200;
+  --accent-foreground: #3a3f48;
+  --destructive: #fb2c36;
+  --destructive-foreground: #ffffff;
+  --border: #babec6;
+  --input: #babec6;
+  --ring: #5295cd;
+}
